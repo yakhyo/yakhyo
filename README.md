@@ -3,16 +3,9 @@
 
 [GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow](https://stackoverflow.com/users/14815986/yakhyo)  | [YouTube](https://youtube.com/codeuz)
 
-📄 Resume: [markdown](./assets/resume.md) | [online](https://yakhyo.github.io/yakhyo/) | [pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20220828].pdf)
-<!--  &nbsp;[![](./icons/icons8-medium.svg)](https://yakhyo.medium.com/) 
-&nbsp;[![](./icons/icons8-twitter.svg)](https://twitter.com/y_valikhujaev) &nbsp;[![](./icons/icons8-facebook.svg)](https://www.facebook.com/yvalikhujaev/) &nbsp;[![](./icons/icons8-telegram.svg)](https://t.me/yakhyokhuja)
- -->
-<!--  This is my markdown [**resume**](./assets/resum_for_pdf.md). -->
-<!--  - This my resume [homepage](https://yakhyo.github.io/yakhyo/) and [markdown](./resume.md) resume. -->
+📄 Resume: [markdown](./index.md) | [online](https://yakhyo.github.io/yakhyo/) | [pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20220828].pdf)
+
 <!-- 
-- Sometimes I write [blogs](https://yakhyo.medium.com/) and make [videos](https://www.youtube.com/codeuz).
-
-
 **yakhyo/yakhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
