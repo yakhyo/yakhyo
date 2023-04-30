@@ -8,11 +8,12 @@
 # Valikhujaev Yakhyokhuja
 
 
-### AI Research Engineer
+### Machine Learning Engineer
 
 [GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [Stack Overflow](https://stackoverflow.com/users/14815986/yakhyo) | [Gmail](mailto:yakhyo9696@gmail.com) | ☏ 010 9363 7088
 
-More than 2 years experience in ML/DL tasks including Object Recognition, Detection, Generative Adversarial Networks, Model Optimization and Implementing SOTA models. A big fan of ML/DL related high-ranking Computer Vision Conferences.
+
+More than 3 years experience in ML/DL, tasks including Object Recognition, Detection, Generative Adversarial Networks, Model Optimization and Implementing SOTA models. A big fan of ML/DL related high-ranking Computer Vision Conferences.
 
 ## EXPERIENCE
 
@@ -23,6 +24,7 @@ More than 2 years experience in ML/DL tasks including Object Recognition, Detect
  - Developing a video recognition model to help business owners to advertise their products on youtube videos.
    - Conducted experiments on building datapipeline/training/evaluating the model and QA on the model.
    - Implemented SOTA models (R(2+1)D, MViT_v1, MViT_v2) to deliver better generalizable model.
+   - Implementing various object detection and classification models to deliver better solution to business owners.
 
 
 ### D-Meta Co. | 2020.11.18 - 2022.06.30
@@ -84,7 +86,7 @@ More than 2 years experience in ML/DL tasks including Object Recognition, Detect
  - PyTorch: MobileNetV1/V2/V3, DarkNet53, YOLOv1/YOLOv3/YOLOv5, DeepLabV3, EAST/CRAFT, Deep Text Detection, Video Recognition models and etc are implemented and uploaded to GitHub.
  - Version Control and Team Collaboration(Git/GitHub).
  - Coding: Problem-solving, Competitive programming.
- - Experience using Docker and Multi-GPUs(Training/Testing/Deployment).
+ - Experience using Docker/Kubeflow and Multi-GPUs(Training/Testing/Deployment).
  - Experience on Code Review/Debugging.
 
 ### Soft:
