@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- [![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp;[![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp;[![](./icons/icons8-google-scholar.svg)](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) &nbsp;[![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo)  &nbsp;[![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz) -->
 
-[GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow](https://stackoverflow.com/users/14815986/yakhyo)  | [YouTube](https://youtube.com/codeuz)
+[GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow](https://stackoverflow.com/users/14815986/yakhyo) | [LeetCode](https://leetcode.com/yakhyo_/) | [YouTube](https://youtube.com/codeuz)
 
 📄 Resume: [markdown](./index.md) | [online](https://yakhyo.github.io/yakhyo/) | [pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20220828].pdf)
 
