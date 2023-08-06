@@ -3,7 +3,7 @@
 
 [GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow](https://stackoverflow.com/users/14815986/yakhyo) | [LeetCode](https://leetcode.com/y_valikhujaev) | [YouTube](https://youtube.com/codeuz)
 
-📄 Resume: [markdown](./index.md) | [online](https://yakhyo.github.io/yakhyo/) | [pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20220828].pdf)
+📄 Resume: [markdown](./index.md) | [online](https://yakhyo.github.io/yakhyo/) | [pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20230806].pdf)
 
 <!-- 
 **yakhyo/yakhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

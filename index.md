@@ -101,4 +101,4 @@ More than 3 years experience in ML/DL, tasks including Object Recognition, Detec
  - Automatic Fire and Smoke Detection Method for Surveillance Systems Based on Dilated CNNs, 2020.
  - Automatic Fire and Smoke Detection System for Open Street CCTV Systems in Smart City Platforms, 2019.
 
-Download this in **.pdf** from [here](./assets/cv_yakhyokhuja[20220828].pdf)
+Download this in **.pdf** from [here](./assets/cv_yakhyokhuja[20230806].pdf)
