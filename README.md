@@ -4,9 +4,9 @@
 
 [GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow](https://stackoverflow.com/users/14815986/yakhyo) | [LeetCode](https://leetcode.com/y_valikhujaev) | [YouTube](https://youtube.com/codeuz)
 
-<h3>📄 Resume: 📑[markdown](./index.md) | 🕸️[online](https://yakhyo.github.io/yakhyo/) | 🔽[pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20231013].pdf)</h3>
+📄 Resume: 📑[markdown](./index.md) | 🕸️[online](https://yakhyo.github.io/yakhyo/) | 🔽[pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20231013].pdf)
 
-
+- 
 - 🔭 I’m a problem solver.
 - 🌱 I’m a quick learner.
 - 👯 I’m looking to collaborate on various topics, feel free to reach me out.
