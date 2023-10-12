@@ -26,7 +26,7 @@ participating in top-tier conferences in the AI field.
 
 ## EXPERIENCE
 
-### Pyler Co. | 2022.07.01 - Present
+### Pyler Co. | 2022.07.01 - 2023.09.01
 
 ### Machine Learning Engineer
 
