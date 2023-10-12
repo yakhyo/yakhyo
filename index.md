@@ -55,6 +55,13 @@ participating in top-tier conferences in the AI field.
 - **Shadow Removal:** Goal of this project was to develop a deep learning based shadow removal model to improve the
   performance of car damage detection by removing the shadow on the surface of the vehicle.
 
+### Side Projects
+
+- [Medical Image Segmentation](https://github.com/yakhyo/polyp-segmentation1) - Segmenting Polyp images.
+- [Defect Detection on the surface of bolts](https://github.com/yakhyo/defect-det) - Finding the defects from production conveyor.
+- [Road Crack Segmentation](https://github.com/yakhyo/crack-segmentation) - Employing various techniques and loss functions to improve the model performance.
+- [Optical Character Recognition](https://github.com/yakhyo/east-pytorch) - Implementing OCR models using PyTorch.
+
 ### AI&SC Lab | 2018.09.01 - 2021.03.01
 
 ### AI Researcher
