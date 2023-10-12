@@ -7,13 +7,22 @@
 
 # Valikhujaev Yakhyokhuja
 
-
 ### Machine Learning Engineer
 
-[GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [Stack Overflow](https://stackoverflow.com/users/14815986/yakhyo) | [Gmail](mailto:yakhyo9696@gmail.com) | ☏ 010 9363 7088
+[GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [Stack Overflow](https://stackoverflow.com/users/14815986/yakhyo) | [Gmail](mailto:yakhyo9696@gmail.com) |
+☏ 010 9363 7088
 
+Specialized in computer vision and machine learning, with a focus on developing and deploying models for visual tasks
+with minimal human supervision. Proficient in transfer learning, self-supervised learning, object detection,
+segmentation, and video recognition. Particularly interested in generative AI and Explainable AI. Enthusiastic about
+participating in top-tier conferences in the AI field.
 
-More than 3 years experience in ML/DL, tasks including Object Recognition, Detection, Generative Adversarial Networks, Model Optimization and Implementing SOTA models. A big fan of ML/DL related high-ranking Computer Vision Conferences.
+### SKILLS SUMMARY
+
+- **Programming Languages:** Python, C/C++, Java.
+- **ML Libraries & Frameworks:** Numpy, Scikit-learn, PyTorch, Tensorflow, Keras, Transformers.
+- **MLOps Tools:** Docker, Docker Compose, Kubeflow, Git/Github, WANDB, Flask, Fast API.
+- **Project Management Tools:** Asana, ClickUp, Jira, Notion, Slack.
 
 ## EXPERIENCE
 
@@ -21,84 +30,79 @@ More than 3 years experience in ML/DL, tasks including Object Recognition, Detec
 
 ### Machine Learning Engineer
 
- - Developing a video recognition model to help business owners to advertise their products on youtube videos.
-   - Conducted experiments on building datapipeline/training/evaluating the model and QA on the model.
-   - Implemented SOTA models (R(2+1)D, MViT_v1, MViT_v2) to deliver better generalizable model.
-   - Implementing various object detection and classification models to deliver better solution to business owners.
-
+- **Video Recognition:** Build a Video Moderation Pipeline which helps to flag inappropriate video contents using latest
+  state-of-the-art Transformer models (MViT, MViT v2 and etc).
+- **Semantic Segmentation & Object Detection:** Leveraged segmentation and detection techniques to precisely detect
+  unsuitable content for the brand safety. Implemented latest state-of-the-art models in terms of real-time speed and
+  efficiency (YOLO, YOLOACT). Build the model development pipeline using Kubeflow and improved the model
+  performance drastically in terms of Recall.
+- **Multi-label & Multi-head Classification:** Improved the model performance by efficiently leveraging multi-label and
+  multi-head classification techniques for identifying inappropriate content within images and videos. This novel
+  approach
+  showcases the adaptability and efficacy for established techniques in addressing specific domain challenges.
 
 ### D-Meta Co. | 2020.11.18 - 2022.06.30
 
 ### AI Research Engineer
 
- - Optical Character Recognition.
-   - Scene Text Recognition customized version of [Deep Text Recognition](https://github.com/yakhyo/ClovaAI-Deep-Text-Recognition) method(STN-ResNet-BiLSTM-Attn).
-   - Scene Text Detection using [CRAFT](https://github.com/yakhyo/ClovaAI-CRAFT) text detection method(U-net based) and Object Detection Method(Customized YOLOv5).
- - Automatic Number Plate Recognition(**ANPR**) using Object Detection Methods(Customized YOLOv5):
- - Number plate generator with YOLO format labels([Korean Number Plate Generator](https://github.com/yakhyo/Korean-License-Plate-Generator))
- - Car Damage detection using Object Detection(Customized YOLOv5-small).
- - Deployment of Car Damage Detection model on Android OS.
- - Shadow Removal on Car Surface using **Generative Adversarial Networks**(**CycleGAN**, **MaskShadowGAN**).
- - Implemented SOTA Object Recognition/Detection/Segmentation Models.
+- **Optical Character Recognition(OCR):** Developed and designed text detection and recognition model to efficiently
+  recognize handwritten texts on slab metals using Spatial Transformer Networks and Sequential modeling. Built a whole
+  pipeline from data pre-processing to training and evaluation of the model.
+- **Automatic Number Plate Recognition (ANPR):** Designed and developed ANPR model to accurately detect and
+  recognize number plates of using Object Detection Approach.
+- **Car Damage Detection:** Build lightweight Car Damage Detection model and deployed it on Android device using
+  Torchscript.
+- **Shadow Removal:** Goal of this project was to develop a deep learning based shadow removal model to improve the
+  performance of car damage detection by removing the shadow on the surface of the vehicle.
 
 ### AI&SC Lab | 2018.09.01 - 2021.03.01
 
 ### AI Researcher
 
- - Machine Learning based Recommendation System.
- - Development of Android app to Control Devices via Bluetooth.
- - Fire and Smoke Recognition from Image data using Atrous Convolutions.
- - Deploying Object Detection methods on Edge devices.
+- Machine Learning based Recommendation System.
+- Developed an Android App to control Rice Peeling Machine through bluetooth.
+- Improving Fire and Smoke Recognition from an image and video using Dilated Convolutions.
+- Deployed Object Detection and Image Recognition models on Raspberry Pi 2.
 
 ### OSG Ltd | 2018.01.01 - 2018.05.01
 
 ### Frontend Developer Intern
 
- - Web design development using HTML, CSS, BootStrap, JS, JQuery.
- - Developed a Website using CodeIgniter(PHP backend framework).
- - Experienced  using Document Object Model(DOM) and Model View Controller(MVC).
+- Web design development using HTML, CSS, BootStrap, JS, JQuery.
+- Developed a Website using CodeIgniter(PHP backend framework).
+- Experienced using Document Object Model(DOM) and Model View Controller(MVC).
 
 ## EDUCATION
 
 ### MS in Computer Engineering, Gachon University | 2018.09.01 - 2021.02.24
 
- - GPA: 4.01 / 4.5
- - Courses: Artificial Intelligence, Advanced Artificial Intelligence, Algorithms, Advanced Algorithms, Image Processing, Computer Networks.
- - Thesis: Automatic Fire and Smoke Detection Method for Surveillance Systems based on Dilated CNNs.
- - Awards:
-   - Best paper award from **FISK** (Fire Investigation Society of Korea).
-   - Best presentation award from **ISIS2019 & ICBAKE2019**.
+- GPA: 4.01 / 4.5
+- Courses: Artificial Intelligence, Advanced Artificial Intelligence, Algorithms, Advanced Algorithms, Image Processing,
+  Computer Networks.
+- Thesis: Automatic Fire and Smoke Detection Method for Surveillance Systems based on Dilated CNNs.
+- Awards:
+    - Best paper award from **FISK** (Fire Investigation Society of Korea).
+    - Best presentation award from **ISIS2019 & ICBAKE2019**.
 
 ### BS in Computer Engineering, TUIT | 2014.09.01 - 2018.06.12
 
- - GPA: 85 / 100
- - Courses: Linear Algebra, Calculus, Probability and Statistics, Programming in C++/Java, Algorithms, Data Structures, Desktop and Web Application Development.
- - Projects: 
-   - Developed a Desktop App for English Language Learners  using C++.
-   - Developed a Web App for Online Car Sale using PHP.
+- GPA: 85 / 100
+- Courses: Linear Algebra, Calculus, Probability and Statistics, Programming in C++/Java, Algorithms, Data Structures,
+  Desktop and Web Application Development.
+- Projects:
+    - Developed a Desktop App for English Language Learners using C++.
+    - Developed a Web App for Online Car Sale using PHP.
 
-## SKILLS
+## SOFT SKILLS
 
-### Technical:
-
- - Python: NumPy, Scikit-learn, PIL, Matplotlib, Pandas, OpenCV, PyTorch, TensorFlow, Keras.
- - Java: Tensorflow Lite and PyTorch Inference.
- - PyTorch: MobileNetV1/V2/V3, DarkNet53, YOLOv1/YOLOv3/YOLOv5, DeepLabV3, EAST/CRAFT, Deep Text Detection, Video Recognition models and etc are implemented and uploaded to GitHub.
- - Version Control and Team Collaboration(Git/GitHub).
- - Coding: Problem-solving, Competitive programming.
- - Experience using Docker/Kubeflow and Multi-GPUs(Training/Testing/Deployment).
- - Experience on Code Review/Debugging.
-
-### Soft:
-
- - Open-minded and Adaptable.
- - Determined and decisive: Uses initiative to develop effective solutions to problems.
- - Emotionally mature: Calming and positive temperament, tolerant and understanding.
- - Strong planning: Organizing and monitoring abilities.
+- Open-minded and Adaptable.
+- Determined and decisive: Uses initiative to develop effective solutions to problems.
+- Emotionally mature: Calming and positive temperament, tolerant and understanding.
+- Strong planning: Organizing and monitoring abilities.
 
 ## PUBLICATIONS:
 
- - Automatic Fire and Smoke Detection Method for Surveillance Systems Based on Dilated CNNs, 2020.
- - Automatic Fire and Smoke Detection System for Open Street CCTV Systems in Smart City Platforms, 2019.
+- Automatic Fire and Smoke Detection Method for Surveillance Systems Based on Dilated CNNs, 2020.
+- Automatic Fire and Smoke Detection System for Open Street CCTV Systems in Smart City Platforms, 2019.
 
-Download this in **.pdf** from [here](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20230806].pdf)
+Download this in **.pdf** from [here](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20231013].pdf)
