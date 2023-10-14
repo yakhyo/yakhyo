@@ -7,10 +7,7 @@
 📄 Resume: 📑[markdown](./index.md) | 🕸️[online](https://yakhyo.github.io/yakhyo/) |
 🔽[pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20231013].pdf)
 
-- 🔭 I’m a problem solver.
-- 🌱 I’m a quick learner.
-- 👯 I’m looking to collaborate on various topics, feel free to reach me out.
-- 📫 How to reach me: https://www.linkedin.com/in/y-valikhujaev/
+
 
 <!-- 
 **yakhyo/yakhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
