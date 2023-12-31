@@ -4,7 +4,7 @@
 
 - 👀 Check out my [resume](./index.md) in markdown format.
 
-- 💾 You can download it from [here](https://yakhyo.github.io/yakhyo/assets/cv_yakhyo.pdf) in .pdf format.
+- 💾 You can download it from [here](https://yakhyo.github.io/yakhyo/assets/resumes/cv_yakhyo.pdf) in .pdf format.
 
 🌱 I am currently learning **NLP** and **Vision-Language** models.
 
