@@ -2,12 +2,11 @@
 
 [GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow](https://stackoverflow.com/users/14815986/yakhyo) | [LeetCode](https://leetcode.com/y_valikhujaev) | [YouTube](https://youtube.com/codeuz)
 
-📄 Resume: 📑[markdown](./index.md) | 🕸️[online](https://yakhyo.github.io/yakhyo/) |
-🔽[pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20231013].pdf)
+- Check out my [resume](./index.md) in markdown format.
+- Or download it from [here](https://yakhyo.github.io/yakhyo/assets/cv_yakhyo.pdf) in .pdf format. <img src="./assets/icons/download.png>
+- You can reach me at yakhyo9696[at]gmail[dot]com 
 
-## Projects
 
-<img src="https://gh-card.dev/repos/yakhyo/crack-segmentation.svg">
 
 <!-- 
 **yakhyo/yakhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -128,4 +128,4 @@ based on dilated CNNs. Atmosphere, 11(11), 1241. https://doi.org/10.3390/atmos11
 - Russian - intermediate proficiency
 - Korean - Elementary proficiency
 
-Download this in **.pdf** from [here](https://yakhyo.github.io/yakhyo/assets/cv_yakhyo.pdf)
+Download this in **.pdf** from [here](https://yakhyo.github.io/yakhyo/assets/resumes/cv_yakhyo.pdf)
