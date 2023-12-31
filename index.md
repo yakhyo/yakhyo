@@ -122,4 +122,10 @@ based on dilated CNNs. Atmosphere, 11(11), 1241. https://doi.org/10.3390/atmos11
 - **Best Presentation Award** - ISIS & ICBAKE 2019 (2019, Jeju, South Korea)
 - **Outstanding Paper Award** - Fire Investigation Society of Korea (FISK) (2020, Seoul, South Korea)
 
+## Languages
+- Uzbek - native proficiency
+- English - professional proficiency
+- Russian - intermediate proficiency
+- Korean - Elementary proficiency
+
 Download this in **.pdf** from [here](https://yakhyo.github.io/yakhyo/assets/cv_yakhyo.pdf)
