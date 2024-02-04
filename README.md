@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yakhyo, ML Engineer
+### Hi there 👋 I'm Yakhyo, an ML Engineer
 
 [GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow](https://stackoverflow.com/users/14815986/yakhyo) | [LeetCode](https://leetcode.com/y_valikhujaev) | [YouTube](https://youtube.com/codeuz)
 
