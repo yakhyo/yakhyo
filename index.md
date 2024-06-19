@@ -1,4 +1,4 @@
-[GitHub 🐱‍💻](https://github.com/yakhyo) | [Google Scholar 📚](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow 🖥️](https://stackoverflow.com/users/14815986/yakhyo) | [LeetCode 🧩](https://leetcode.com/y_valikhujaev) | [LinkedIn 🔗](https://www.linkedin.com/in/y-valikhujaev/)
+[GitHub 🐱‍💻](https://github.com/yakhyo) &#124; [Google Scholar 📚](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) &#124; [StackOverflow 🖥️](https://stackoverflow.com/users/14815986/yakhyo) &#124; [LeetCode 🧩](https://leetcode.com/y_valikhujaev) &#124; [LinkedIn 🔗](https://www.linkedin.com/in/y-valikhujaev/)
 
 ## ML Software Engineer
 
