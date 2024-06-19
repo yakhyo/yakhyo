@@ -20,7 +20,7 @@ Skilled in developing and deploying machine learning models on AWS and GCP, buil
 
 ### AI Research Engineer
 
-**[Aria Studios Co. Ltd](https://showaria.com/)** | **March 2024 - Present**
+**[Aria Studios Co. Ltd](https://showaria.com/)** &#124; **March 2024 - Present**
 
 - **LG Ground 220**: Developed the AI backend for MusicStudio and DJingStudio, featuring lyrics generation from user input, cover image creation, and music generation using OpenAI, StabilityAI, and MixAudio APIs.
 - **GPT Fine-tuning**: Fine-tuned the GPT-3.5-turbo model on conversation data of a virtual character to build a custom API for the virtual assistant. Performed several data augmentations using the OpenAI API for paraphrasing conversations.
@@ -31,7 +31,7 @@ Skilled in developing and deploying machine learning models on AWS and GCP, buil
 
 ### ML Engineer
 
-**[Pyler Co. Ltd](https://www.pyler.tech/)** | **July 2022 - September 2023**
+**[Pyler Co. Ltd](https://www.pyler.tech/)** &#124; **July 2022 - September 2023**
 
 - **Video-based Visual Content Moderation**: Built a Video Moderation Pipeline to flag inappropriate video content using video recognition models, achieving over a 10% improvement in model accuracy.
 - **Detection-based Visual Content Moderation**: Utilized segmentation and detection techniques to precisely detect unsuitable content for brand safety. Implemented state-of-the-art models in terms of real-time speed and efficiency, improving model precision and recall by around 15% through active learning techniques. Built an end-to-end pipeline on Kubeflow for training and deployment.
@@ -39,7 +39,7 @@ Skilled in developing and deploying machine learning models on AWS and GCP, buil
 
 ### AI Research Engineer
 
-**[D-Meta Co. Ltd](https://www.d-meta.ai/)** | **November 2020 - July 2022**
+**[D-Meta Co. Ltd](https://www.d-meta.ai/)** &#124; **November 2020 - July 2022**
 
 - **Slab Text Recognition**: Developed and designed a text detection and recognition model to efficiently recognize handwritten texts on slab metals using Spatial Transformer Networks and Sequential modeling. Built a complete pipeline from data pre-processing to training and evaluation of the model. Achieved over 90% accuracy by integrating state-of-the-art detection and recognition models for scene text images.
 - **Automatic Number Plate Recognition**: Designed and developed an ANPR model to accurately detect and recognize number plates. Leveraged active learning and synthetic image generation techniques to improve precision and recall by around 15%.
@@ -49,7 +49,7 @@ Skilled in developing and deploying machine learning models on AWS and GCP, buil
 
 ### Research Assistant
 
-**AI and SC Lab** | **Sep 2018 - Nov 2020**
+**AI and SC Lab** &#124; **Sep 2018 - Nov 2020**
 
 - **Computer Vision based Fire and Smoke Detection**: Designed and implemented a dilated CNN architecture for improved feature extraction and recognition in images/videos. By carefully tuning and optimizing the model, achieved a high level of accuracy in fire and smoke detection, reducing false positives and achieving 1.5x faster inference speed compared to the fastest counterpart.
 - **Model Optimization for Edge Devices**: Improved the FPS on Edge device (Raspberry PI 2) by using hyper-parameter tuning and quantization for the detection model.

@@ -1,13 +1,8 @@
 title: Yakhyo Valikhujaev
 description: >
-  MSc in Computer Science from <a href="https://www.gachon.ac.kr/">Gachon University</a>
-  <br>
-  BSc in Computer Science from <a href="https://tuit.uz/">TUIT</a>
-  <br><br>
-  As an ML Software Engineer with 4+ years of industrial experience.
-  <br><br>
+  Download CV from <a href="https://github.com/yakhyo/yakhyo/blob/main/assets/resumes/yakhyo_cv.pdf">here</a>
 
-logo: assets/pp_high_res.png
+logo: assets/logo.png
 show_downloads: False
 google_analytics: G-6J4WNNF43F
 remote_theme: pages-themes/minimal@v0.2.0
@@ -18,4 +13,4 @@ github:
   owner: yakhyo
 
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
