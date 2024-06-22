@@ -1,11 +1,10 @@
 title: Yakhyo Valikhujaev
 description: >
-  MSc in Computer Engineering from Gachon University 🎓<br><br>
-  BSc in Computer Engineering from TUIT 🏅<br><br>
+  MSc in CS from Gachon University 🎓<br><br>
+  BSc in CS from TUIT 🏅<br><br>
   <a href="https://yakhyo.github.io/yakhyo/assets/resumes/yakhyo_cv.pdf">
     <img src="assets/icons/download-pdf.png" alt="Dowload CV" style="height:40px; width:auto;">
   </a>
-
 
 logo: assets/logo.png
 show_downloads: False
@@ -16,6 +15,8 @@ github:
   is_user_page: false
   is_project_page: false
   owner: yakhyo
+
+exclude:
 
 plugins:
   - jekyll-remote-theme
