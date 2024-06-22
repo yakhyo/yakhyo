@@ -17,6 +17,7 @@ github:
   owner: yakhyo
 
 exclude:
+  - assets/resumes
 
 plugins:
   - jekyll-remote-theme
