@@ -6,7 +6,7 @@ description: >
     <img src="assets/icons/download-pdf.png" alt="Dowload CV" style="height:40px; width:auto;">
   </a>
 
-logo: assets/logo.png
+logo: assets/logo.webp
 show_downloads: False
 google_analytics: G-CE229735H0
 remote_theme: pages-themes/minimal@v0.2.0
