@@ -78,4 +78,4 @@ Skilled in developing and deploying machine learning models on AWS and GCP, buil
 - **Uzbek:** Native Proficiency
 - **Russian:** Limited Working Proficiency
 
-Last Updated: 2024-06-20
+Last Updated: 2024-06-23
