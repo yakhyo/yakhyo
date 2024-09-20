@@ -2,9 +2,9 @@ title: Yakhyo Valikhujaev
 description: >
   MSc in CS from Gachon University 🎓<br>
   BSc in CS from TUIT 🏅<br><br>
-  📝 Personal blog: <a href="https://yakhyo.github.io" target="_blank">yakhyo.github.io</a>
+  📝 Personal blog: <a href="https://yakhyo.github.io" target="_blank"><h2>Yakhyo's Blog</h></a>
 
-absolute_url: https://yakhyo.github.io
+# absolute_url: https://yakhyo.github.io
 
 logo: assets/logo.webp
 show_downloads: False
