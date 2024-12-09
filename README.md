@@ -5,7 +5,7 @@
 - 📄 Check out my [resume](./index.md) in markdown format.
 - 📝 Personal blog: <a href="https://yakhyo.github.io" target="_blank">yakhyo.github.io</a>
 
-## 🚀 Latest Release: [UniFace](https://github.com/yakhyo/uniface)
+## [uniface](https://github.com/yakhyo/uniface)
 
 **UniFace** is a lightweight library for high-performance face detection, alignment, and more! It simplifies face analysis tasks with an easy-to-use API.  
 
