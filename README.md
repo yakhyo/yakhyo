@@ -14,6 +14,7 @@ for detection, alignment, landmarks, recognition, and more.
 [![Downloads](https://pepy.tech/badge/uniface)](https://pepy.tech/project/uniface)
 [![GitHub Stars](https://img.shields.io/github/stars/yakhyo/uniface)](https://github.com/yakhyo/uniface/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Docs](https://img.shields.io/badge/Docs-UniFace-blue.svg)](https://yakhyo.github.io/uniface/)
 
 Explore the repository: [github.com/yakhyo/uniface](https://github.com/yakhyo/uniface)
 
