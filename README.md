@@ -4,7 +4,7 @@
 
 
 ##
-### [UniFace](https://github.com/yakhyo/uniface)
+### [UniFace: All-in-One Face Analysis Library in Python](https://github.com/yakhyo/uniface)
 
 **UniFace** is a lightweight, high-performance, all-in-one face analysis toolkit  
 for detection, alignment, landmarks, recognition, and more.
