@@ -1,0 +1,20 @@
+title: Yakhyo Valikhujaev
+description: >
+  MSc in CS from Gachon University 🎓<br>
+  BSc in CS from TUIT 🏅<br><br>
+  <a href="https://yakhyo.github.io" target="_blank"><h2>Visit My Blog</h></a>
+
+# absolute_url: https://yakhyo.github.io
+
+logo: assets/logo.webp
+show_downloads: False
+google_analytics: G-CE229735H0
+remote_theme: pages-themes/minimal@v0.2.0
+
+github:
+  is_user_page: false
+  is_project_page: false
+  owner: yakhyo
+
+plugins:
+  - jekyll-remote-theme
