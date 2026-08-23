@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-[GitHub](https://github.com/yakhyo) • [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) • [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/)
+[GitHub](https://github.com/yakhyo) • [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en)
 #
 
 ### [UniFace: A Unified Face Analysis Library for Python](https://github.com/yakhyo/uniface)
 
-**UniFace** is a lightweight, high-performance Python toolkit that brings together essential face analysis tasks - including detection, alignment, landmarks, recognition, parsing, gaze estimation, attributes, anti-spoofing, and anonymization - under a unified API.
+**UniFace** is a lightweight, high-performance Python toolkit that brings together essential face analysis tasks - including detection, alignment, landmarks, face-mesh, recognition, parsing, gaze estimation, attributes, anti-spoofing, and anonymization - under a unified API.
 
 
 [![PyPI Version](https://img.shields.io/pypi/v/uniface.svg?label=Version)](https://pypi.org/project/uniface/)
