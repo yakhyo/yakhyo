@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en)
+
 #
 
 ### [UniFace: A Unified Face Analysis Library for Python](https://github.com/yakhyo/uniface)
