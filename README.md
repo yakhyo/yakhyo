@@ -1,11 +1,4 @@
-<a href="https://github.com/yakhyo/uniface">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yakhyo/uniface/main/.github/logos/logo/uniface-logo-dark.svg">
-    <img src="https://raw.githubusercontent.com/yakhyo/uniface/main/.github/logos/logo/uniface-logo-light.svg" width="220" alt="UniFace">
-  </picture>
-</a>
-
-### [A Unified Face Analysis Library for Python](https://github.com/yakhyo/uniface)
+### [UniFace: A Unified Face Analysis Library for Python](https://github.com/yakhyo/uniface)
 
 Detection, recognition, tracking, landmarks, parsing, gaze, attributes and anti-spoofing through one API.
 
