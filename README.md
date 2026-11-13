@@ -7,7 +7,7 @@
 
 ### [A Unified Face Analysis Library for Python](https://github.com/yakhyo/uniface)
 
-Detection, recognition, tracking, landmarks, parsing, gaze, attributes and anti-spoofing through one API, with pretrained ONNX models that download on first use.
+Detection, recognition, tracking, landmarks, parsing, gaze, attributes and anti-spoofing through one API.
 
 [![Stars](https://img.shields.io/github/stars/yakhyo/uniface?label=Stars&color=blue)](https://github.com/yakhyo/uniface)
 [![Downloads](https://static.pepy.tech/personalized-badge/uniface?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://github.com/yakhyo/uniface)
