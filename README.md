@@ -1,3 +1,5 @@
+Website: [yakhyo.github.io](https://yakhyo.github.io)
+
 ### [UniFace: A Unified Face Analysis Library for Python](https://github.com/yakhyo/uniface)
 
 Detection, recognition, tracking, landmarks, parsing, gaze, attributes and anti-spoofing through one API.
@@ -9,12 +11,12 @@ Detection, recognition, tracking, landmarks, parsing, gaze, attributes and anti-
 
 ### Featured Projects
 
-| Project | Description | Weight downloads | Stars |
+| Project | Description | Downloads | Stars |
 |---------|-------------|-----------|-------|
-| [face-parsing](https://github.com/yakhyo/face-parsing) | Real-time face parsing and segmentation with BiSeNet | [![Downloads](https://img.shields.io/github/downloads/yakhyo/face-parsing/total?label=Downloads&color=blue)](https://github.com/yakhyo/face-parsing) | [![Stars](https://img.shields.io/github/stars/yakhyo/face-parsing?label=Stars&color=blue)](https://github.com/yakhyo/face-parsing) |
-| [gaze-estimation](https://github.com/yakhyo/gaze-estimation) | Gaze estimation with ResNet and MobileOne backbones | [![Downloads](https://img.shields.io/github/downloads/yakhyo/gaze-estimation/total?label=Downloads&color=blue)](https://github.com/yakhyo/gaze-estimation) | [![Stars](https://img.shields.io/github/stars/yakhyo/gaze-estimation?label=Stars&color=blue)](https://github.com/yakhyo/gaze-estimation) |
-| [face-reidentification](https://github.com/yakhyo/face-reidentification) | Face search with ArcFace and FAISS | [![Downloads](https://img.shields.io/github/downloads/yakhyo/face-reidentification/total?label=Downloads&color=blue)](https://github.com/yakhyo/face-reidentification) | [![Stars](https://img.shields.io/github/stars/yakhyo/face-reidentification?label=Stars&color=blue)](https://github.com/yakhyo/face-reidentification) |
-| [head-pose-estimation](https://github.com/yakhyo/head-pose-estimation) | Head pose estimation (yaw, pitch, roll) | [![Downloads](https://img.shields.io/github/downloads/yakhyo/head-pose-estimation/total?label=Downloads&color=blue)](https://github.com/yakhyo/head-pose-estimation) | [![Stars](https://img.shields.io/github/stars/yakhyo/head-pose-estimation?label=Stars&color=blue)](https://github.com/yakhyo/head-pose-estimation) |
-| [retinaface-pytorch](https://github.com/yakhyo/retinaface-pytorch) | Real-time face detection with RetinaFace | [![Downloads](https://img.shields.io/github/downloads/yakhyo/retinaface-pytorch/total?label=Downloads&color=blue)](https://github.com/yakhyo/retinaface-pytorch) | [![Stars](https://img.shields.io/github/stars/yakhyo/retinaface-pytorch?label=Stars&color=blue)](https://github.com/yakhyo/retinaface-pytorch) |
+| [face-parsing](https://github.com/yakhyo/face-parsing) | Real-time facial semantic segmentation with BiSeNet | [![Downloads](https://img.shields.io/github/downloads/yakhyo/face-parsing/total?label=Downloads&color=blue)](https://github.com/yakhyo/face-parsing) | [![Stars](https://img.shields.io/github/stars/yakhyo/face-parsing?label=Stars&color=blue)](https://github.com/yakhyo/face-parsing) |
+| [gaze-estimation](https://github.com/yakhyo/gaze-estimation) | Real-time gaze estimation with ResNet, MobileNet and MobileOne | [![Downloads](https://img.shields.io/github/downloads/yakhyo/gaze-estimation/total?label=Downloads&color=blue)](https://github.com/yakhyo/gaze-estimation) | [![Stars](https://img.shields.io/github/stars/yakhyo/gaze-estimation?label=Stars&color=blue)](https://github.com/yakhyo/gaze-estimation) |
+| [face-reidentification](https://github.com/yakhyo/face-reidentification) | Face search and matching with ArcFace and FAISS | [![Downloads](https://img.shields.io/github/downloads/yakhyo/face-reidentification/total?label=Downloads&color=blue)](https://github.com/yakhyo/face-reidentification) | [![Stars](https://img.shields.io/github/stars/yakhyo/face-reidentification?label=Stars&color=blue)](https://github.com/yakhyo/face-reidentification) |
+| [head-pose-estimation](https://github.com/yakhyo/head-pose-estimation) | Real-time 3D head pose estimation (yaw, pitch, and roll) | [![Downloads](https://img.shields.io/github/downloads/yakhyo/head-pose-estimation/total?label=Downloads&color=blue)](https://github.com/yakhyo/head-pose-estimation) | [![Stars](https://img.shields.io/github/stars/yakhyo/head-pose-estimation?label=Stars&color=blue)](https://github.com/yakhyo/head-pose-estimation) |
+| [retinaface-pytorch](https://github.com/yakhyo/retinaface-pytorch) | Face detection and five-keypoint localization with RetinaFace | [![Downloads](https://img.shields.io/github/downloads/yakhyo/retinaface-pytorch/total?label=Downloads&color=blue)](https://github.com/yakhyo/retinaface-pytorch) | [![Stars](https://img.shields.io/github/stars/yakhyo/retinaface-pytorch?label=Stars&color=blue)](https://github.com/yakhyo/retinaface-pytorch) |
 
 Contact: yakhyo9696[at]gmail[dot]com
